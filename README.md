@@ -1,4 +1,4 @@
-import random
+    import random
 import os
 import re
 os.system('cls' if os.name=='nt' else 'clear')
